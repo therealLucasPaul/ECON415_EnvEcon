@@ -1,0 +1,10 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Data Source}{1}{section.2}%
+\contentsline {section}{\numberline {3}Data Analysis}{3}{section.3}%
+\contentsline {section}{\numberline {4}Economic Analysis}{6}{section.4}%
+\contentsline {section}{\numberline {5}Conclusions}{7}{section.5}%
+\contentsline {section}{\numberline {6}Appendix}{8}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Histogram of Recycling Rates in 2015}{8}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Histogram of Average Year-on-Year Kilogram per Capita Growth Rates}{8}{subsection.6.2}%
+\contentsline {section}{References}{iii}{figure.caption.5}%

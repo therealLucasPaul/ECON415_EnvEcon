@@ -1,0 +1,378 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{lebreton2018}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=ae5a449d6e8cf17bca0c4d0cef4fadd2}{%
+           family={Lebreton},
+           familyi={L\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=077c2f72a8a6dbdcc160380b23a650d8}{%
+           family={Slat},
+           familyi={S\bibinitperiod},
+           given={Boyan},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=949222b24d93157ac44ebe35cca3c7b4}{%
+           family={Ferrari},
+           familyi={F\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7275837cf6e8d1c845548bd5efd8b564}{%
+           family={Sainte-Rose},
+           familyi={S\bibinithyphendelim R\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=110fd6c44be250260f17df0fdda11da2}{%
+           family={Aitken},
+           familyi={A\bibinitperiod},
+           given={Jen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf83cc5c78e80d9941d8bb5d1d787592}{%
+           family={Marthouse},
+           familyi={M\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86772f1ad38b31825ca527050b029c4e}{%
+           family={Hajbane},
+           familyi={H\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8bff2956305a01a01499285dd6f6196d}{%
+           family={Cunsolo},
+           familyi={C\bibinitperiod},
+           given={Serena},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=344f0e1db3a82656f47edd62f6120e2c}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04b7572eec18604a6706aa24e1afaf23}{%
+           family={Levivier},
+           familyi={L\bibinitperiod},
+           given={Aurore},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{0612675c7672c1f5a697b0d685c952e3}
+      \strng{fullhash}{649ee1f317cfd12b4117a16739f546dc}
+      \strng{bibnamehash}{649ee1f317cfd12b4117a16739f546dc}
+      \strng{authorbibnamehash}{649ee1f317cfd12b4117a16739f546dc}
+      \strng{authornamehash}{0612675c7672c1f5a697b0d685c952e3}
+      \strng{authorfullhash}{649ee1f317cfd12b4117a16739f546dc}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific reports}
+      \field{number}{1}
+      \field{title}{Evidence that the Great Pacific Garbage Patch is rapidly accumulating plastic}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+    \endentry
+    \entry{MA48}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=706a82e7cbb97ae46f77a8fbe88d19bd}{%
+           family={MA48},
+           familyi={M\bibinitperiod},
+           given={Stadt\bibnamedelimb Wien\bibnamedelima -},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{706a82e7cbb97ae46f77a8fbe88d19bd}
+      \strng{fullhash}{706a82e7cbb97ae46f77a8fbe88d19bd}
+      \strng{bibnamehash}{706a82e7cbb97ae46f77a8fbe88d19bd}
+      \strng{authorbibnamehash}{706a82e7cbb97ae46f77a8fbe88d19bd}
+      \strng{authornamehash}{706a82e7cbb97ae46f77a8fbe88d19bd}
+      \strng{authorfullhash}{706a82e7cbb97ae46f77a8fbe88d19bd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.wien.gv.at/umwelt/ma48/tarife/hausmuell.html}}
+      \field{note}{[Accessed 30-11-2023]}
+      \field{title}{{H}ausmüllgebühren - {T}arife für die {M}üllabfuhr --- wien.gv.at}
+    \endentry
+    \entry{OECDData}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdbed435a416a918aa494017fda4c7fb}{%
+           family={OECD},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{fullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{bibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorbibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authornamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorfullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://theoceancleanup.com/great-pacific-garbage-patch/}}
+      \field{note}{[Accessed 03-11-2023]}
+      \field{title}{Municipal waste (indicator)}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1787/89d5679a-en
+      \endverb
+    \endentry
+    \entry{RLanguage}{manual}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{organization}{1}{%
+        {R Foundation for Statistical Computing}%
+      }
+      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{R: A Language and Environment for Statistical Computing}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.R-project.org/
+      \endverb
+      \verb{url}
+      \verb https://www.R-project.org/
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{lebreton2018}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=ae5a449d6e8cf17bca0c4d0cef4fadd2}{%
+           family={Lebreton},
+           familyi={L\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=077c2f72a8a6dbdcc160380b23a650d8}{%
+           family={Slat},
+           familyi={S\bibinitperiod},
+           given={Boyan},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=949222b24d93157ac44ebe35cca3c7b4}{%
+           family={Ferrari},
+           familyi={F\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7275837cf6e8d1c845548bd5efd8b564}{%
+           family={Sainte-Rose},
+           familyi={S\bibinithyphendelim R\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=110fd6c44be250260f17df0fdda11da2}{%
+           family={Aitken},
+           familyi={A\bibinitperiod},
+           given={Jen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf83cc5c78e80d9941d8bb5d1d787592}{%
+           family={Marthouse},
+           familyi={M\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86772f1ad38b31825ca527050b029c4e}{%
+           family={Hajbane},
+           familyi={H\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8bff2956305a01a01499285dd6f6196d}{%
+           family={Cunsolo},
+           familyi={C\bibinitperiod},
+           given={Serena},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=344f0e1db3a82656f47edd62f6120e2c}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04b7572eec18604a6706aa24e1afaf23}{%
+           family={Levivier},
+           familyi={L\bibinitperiod},
+           given={Aurore},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{0612675c7672c1f5a697b0d685c952e3}
+      \strng{fullhash}{649ee1f317cfd12b4117a16739f546dc}
+      \strng{bibnamehash}{649ee1f317cfd12b4117a16739f546dc}
+      \strng{authorbibnamehash}{649ee1f317cfd12b4117a16739f546dc}
+      \strng{authornamehash}{0612675c7672c1f5a697b0d685c952e3}
+      \strng{authorfullhash}{649ee1f317cfd12b4117a16739f546dc}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific reports}
+      \field{number}{1}
+      \field{title}{Evidence that the Great Pacific Garbage Patch is rapidly accumulating plastic}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+    \endentry
+    \entry{MA48}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=706a82e7cbb97ae46f77a8fbe88d19bd}{%
+           family={MA48},
+           familyi={M\bibinitperiod},
+           given={Stadt\bibnamedelimb Wien\bibnamedelima -},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{706a82e7cbb97ae46f77a8fbe88d19bd}
+      \strng{fullhash}{706a82e7cbb97ae46f77a8fbe88d19bd}
+      \strng{bibnamehash}{706a82e7cbb97ae46f77a8fbe88d19bd}
+      \strng{authorbibnamehash}{706a82e7cbb97ae46f77a8fbe88d19bd}
+      \strng{authornamehash}{706a82e7cbb97ae46f77a8fbe88d19bd}
+      \strng{authorfullhash}{706a82e7cbb97ae46f77a8fbe88d19bd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.wien.gv.at/umwelt/ma48/tarife/hausmuell.html}}
+      \field{note}{[Accessed 30-11-2023]}
+      \field{title}{{H}ausmüllgebühren - {T}arife für die {M}üllabfuhr --- wien.gv.at}
+    \endentry
+    \entry{OECDData}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdbed435a416a918aa494017fda4c7fb}{%
+           family={OECD},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{fullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{bibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorbibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authornamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorfullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://theoceancleanup.com/great-pacific-garbage-patch/}}
+      \field{note}{[Accessed 03-11-2023]}
+      \field{title}{Municipal waste (indicator)}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1787/89d5679a-en
+      \endverb
+    \endentry
+    \entry{RLanguage}{manual}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{organization}{1}{%
+        {R Foundation for Statistical Computing}%
+      }
+      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{R: A Language and Environment for Statistical Computing}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.R-project.org/
+      \endverb
+      \verb{url}
+      \verb https://www.R-project.org/
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{UN REPORT}
+\endrefsection
+\endinput
+

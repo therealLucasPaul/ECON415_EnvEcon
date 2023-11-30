@@ -1,0 +1,21 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'envecon_project.blg'
+[262] biber-MSWIN64:340> INFO - === 
+[326] Biber.pm:419> INFO - Reading 'envecon_project.bcf'
+[574] Biber.pm:979> INFO - Found 5 citekeys in bib section 0
+[615] Biber.pm:4419> INFO - Processing section 0
+[635] Biber.pm:4610> INFO - Looking for bibtex file 'ref.bib' for section 0
+[698] bibtex.pm:1713> INFO - LaTeX decoding ...
+[716] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
+[842] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[842] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[843] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[843] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[875] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[876] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[876] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[876] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[895] bbl.pm:660> INFO - Writing 'envecon_project.bbl' with encoding 'UTF-8'
+[911] bbl.pm:763> INFO - Output to envecon_project.bbl
+[911] Biber.pm:131> WARN - I didn't find a database entry for 'UN REPORT' (section 0)
+[911] Biber.pm:133> INFO - WARNINGS: 1
